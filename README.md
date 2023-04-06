@@ -33,3 +33,4 @@ final project for Seminar KI in der Logistik - Programmierung WiSe 22/23
         print("You've guessed too high!")  
     else:  
         print("You've got it! It took you {} tries!".format(count))  
+        break  
