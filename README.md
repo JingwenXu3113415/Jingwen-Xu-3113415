@@ -34,3 +34,5 @@ final project for Seminar KI in der Logistik - Programmierung WiSe 22/23
     else:  
         print("You've got it! It took you {} tries!".format(count))  
         break  
+      #Add the input function to wait for the user to enter any key before exiting the program  
+      input("Please enter any key to exit")  
