@@ -2,7 +2,7 @@
 final project for Seminar KI in der Logistik - Programmierung WiSe 22/23  
 # Name of the project  
   Guess the Number Game  
-# Main Process  
+# Main Process-Purpose    
   Generate a random number between 1 and 100.   
   Ask the user to guess the number,receive user input, then tell them whether they guessed too low, too high, until the user guessed the correct answer.  
   Generate an option for user can quit the game at any time.  
