@@ -7,7 +7,7 @@ final project for Seminar KI in der Logistik - Programmierung WiSe 22/23
   Ask the user to guess the number,receive user input, then tell them whether they guessed too low, too high, until the user guessed the correct answer.  
   Generate an option for user can quit the game at any time.  
   Keep track of how many guesses the user has taken, and when the game ends, print this out.  
-# Process in detail
+# Process in detail- program
   #Import the random module  
     import random  
   #Create a number as random number, define guess as the variable guess number and count as record cycle times  
